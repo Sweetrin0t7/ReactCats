@@ -1,0 +1,41 @@
+{
+    "name": "LoveCats",
+    "title": "Sobre nós - LoveCats",
+    "desc" : "A LoveCats é uma organização não governamental dedicada ao bem-estar e cuidado de gatos desabrigados. Nosso compromisso é proporcionar um ambiente seguro e amoroso para esses animais, buscando promover a conscientização sobre a importância da adoção responsável e da valorização da vida felina. Com uma equipe dedicada de voluntários e amantes de gatos, a LoveCats trabalha incansavelmente para oferecer a cada felino sob sua tutela a oportunidade de uma vida plena e feliz.",
+    "components": {
+        "header": {
+            "title": "LoveCats",
+            "links": ["Início", "Sobre", "Contato"]
+        },
+        "imageText": {
+            "text1" : "Em nossa missão de cuidar e proteger gatos desabrigados, a LoveCats oferece serviços abrangentes de hotelaria e adoção. No coração de nossas operações está nosso serviço de hotelaria, onde gatos recebem cuidados especializados, alimentação balanceada e atenção individualizada. Nossas instalações são projetadas para proporcionar um ambiente acolhedor, promovendo o bem-estar físico e emocional de cada felino enquanto aguardam por um lar permanente.",
+            "text2": "Além disso, a LoveCats é apaixonada por conectar gatos adoráveis a lares amorosos. Nosso processo de adoção é cuidadosamente elaborado para garantir que cada gato encontre a família perfeita. Realizamos rigorosas entrevistas com os potenciais adotantes, oferecendo orientação e suporte contínuo para garantir uma transição suave para o novo ambiente do gato. Ao escolher adotar um felino da LoveCats, não apenas você transforma a vida de um gato, mas também se torna parte de nossa missão contínua de criar um mundo onde todos os gatos recebam o amor e a atenção que merecem. Junte-se a nós na jornada de fazer a diferença na vida desses animais incríveis."
+        },
+        "socialCard": {
+            "Instagram":{
+                "name": "Instagram",
+                "username": "@LoveCats",
+                "logo": "./src/assets/instagram logo.svg"
+            },
+            "Facebook": {
+                "name": "Facebook",
+                "username": "LoveCats",
+                "logo": "./src/assets/facebook logo.svg"
+            },
+            "TikTok": {
+                "name": "Tik Tok",
+                "username": "@LoveCats",
+                "logo": "./src/assets/Tiktok logo.svg"
+            }
+        }
+        ,
+        "footer":{
+            "links": [
+                "Follow Us",
+                "Visit Us",
+                "FAQ",
+                "Terms of Use"
+            ]
+        }
+    }
+}
